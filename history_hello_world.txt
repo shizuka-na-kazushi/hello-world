@@ -1,0 +1,49 @@
+1830  cat hello_world.py
+1831  python hello_world.py
+
+1830  cat hello_world.js
+1831  node hello_world.js
+
+1832  cat hello_world.php
+1833  php hello_world.php
+
+1834  cat hello_world.rb
+1835  ruby hello_world.rb
+
+2095  cat hello_world.pl
+2096  perl hello_world.pl
+
+2085  cat hello_world.swift
+2086  swift hello_world.swift 
+
+1836  cat hello_world.sh
+1837  bash hello_world.sh
+
+1838  cat hello_world.R
+1839  Rscript hello_world.R
+
+1821  cat hello_world.c
+1822  gcc hello_world.c
+1823  ./a.out
+
+1826  cat hello_world.cpp
+1828  gcc hello_world.cpp -lstdc++
+1829  ./a.out
+
+1830  cat hello_world.go
+1831  go run hello_world.go
+
+1838  cat hello_world.java
+1839  javac hello_world.java
+1840  java hello_world
+
+1841  cat hello_world.cs
+1842  mcs hello_world.cs
+1843  mono hello_world.exe
+
+1845  cat hello_world.vb
+1844  vbnc hello_world.vb
+1846  mono hello_world.exe
+
+1847  cat hello_world.html
+1848  firefox hello_world.html
